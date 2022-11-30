@@ -49,8 +49,8 @@
         - 3D Design 프로그램
 
 ## 👫 팀 구성
+<img width="665" alt="스크린샷 2022-11-30 오후 7 28 26" src="https://user-images.githubusercontent.com/67767912/204772449-bdac734e-1c4b-4486-91cb-f562cdd6c84c.png">
 
-![Untitled4](https://user-images.githubusercontent.com/67767912/204771421-0ede4165-fa8f-499c-beeb-f397419c11a4.png)
 ![Untitled5](https://user-images.githubusercontent.com/67767912/204771427-e62a088b-ca54-43a2-a8c3-0b3ebe371bc2.png)
 
 
