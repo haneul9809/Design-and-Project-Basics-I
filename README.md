@@ -31,6 +31,7 @@
         - 측정된 수면 습관으로 발생될 수 있는 질환을 진단하고 치료할 수 있다.
         - 불면증이 아니더라도 다른 질병을 미리 알고 예방할 수 있다.
 
+
 ## ⚙️ 기술 스택
 
 - 수면패턴 분석 홈페이지 및 서버
@@ -50,8 +51,7 @@
 
 ## 👫 팀 구성
 <img width="665" alt="스크린샷 2022-11-30 오후 7 28 26" src="https://user-images.githubusercontent.com/67767912/204772449-bdac734e-1c4b-4486-91cb-f562cdd6c84c.png">
-
-![Untitled5](https://user-images.githubusercontent.com/67767912/204771427-e62a088b-ca54-43a2-a8c3-0b3ebe371bc2.png)
+<img width="661" alt="스크린샷 2022-11-30 오후 7 28 57" src="https://user-images.githubusercontent.com/67767912/204772636-d9caa254-87c1-4a45-a331-a1987968e5e0.png">
 
 
 ## 💻 개발 내용
