@@ -57,7 +57,7 @@
 ## 💻 개발 내용
 
 1. 시스템 구성도
-    ![Untitled6](https://user-images.githubusercontent.com/67767912/204771455-473e06c2-360e-4695-8944-ccca28d6903a.png)
+    <img width="665" alt="스크린샷 2022-11-30 오후 7 29 48" src="https://user-images.githubusercontent.com/67767912/204772789-483116fe-a27b-4917-bb8a-e6183e092091.png">
 
     
 2. 케이스 제작
