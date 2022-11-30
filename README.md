@@ -23,9 +23,9 @@
 
         
     - 현실적 제한 조건
-        
-![204771362-d45079ed-f0bb-43dd-926b-b015650fd509](https://user-images.githubusercontent.com/67767912/204771990-2c20856d-6788-4707-8de2-e1011977a28f.png)
+        <img width="658" alt="스크린샷 2022-11-30 오후 7 27 45" src="https://user-images.githubusercontent.com/67767912/204772312-ce992701-fece-4edf-8552-abfd5f2b7f3f.png">
 
+    
         
     - 기대효과
         - 측정된 수면 습관으로 발생될 수 있는 질환을 진단하고 치료할 수 있다.
