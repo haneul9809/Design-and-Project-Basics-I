@@ -1,0 +1,15 @@
+D:\설계및프로젝트기본1\재설계\test002\test002\bin\Debug\test002.exe.config
+D:\설계및프로젝트기본1\재설계\test002\test002\bin\Debug\test002.exe
+D:\설계및프로젝트기본1\재설계\test002\test002\bin\Debug\test002.pdb
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.csprojAssemblyReference.cache
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.Form1.resources
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.Properties.Resources.resources
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.csproj.GenerateResource.cache
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.csproj.CoreCompileInputs.cache
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.exe
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.pdb
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.Form2.resources
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.Form3.resources
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.Form4.resources
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.FormForest.resources
+D:\설계및프로젝트기본1\재설계\test002\test002\obj\Debug\test002.FormRain.resources
