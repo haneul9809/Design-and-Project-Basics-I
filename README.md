@@ -24,7 +24,7 @@
         
     - 현실적 제한 조건
         
-       ![Untitled3](https://user-images.githubusercontent.com/67767912/204771362-d45079ed-f0bb-43dd-926b-b015650fd509.png)
+![204771362-d45079ed-f0bb-43dd-926b-b015650fd509](https://user-images.githubusercontent.com/67767912/204771990-2c20856d-6788-4707-8de2-e1011977a28f.png)
 
         
     - 기대효과
